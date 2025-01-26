@@ -1,31 +1,34 @@
-# [Project Name] 🎯
+# DAILY PLANNER🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Noble Rangers
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Nithya J Shine - LBS Institute of Technology for Women,Poojappura
+- Member 2: Sarga P.S- LBS Institute of Technology for Women,Poojappura
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+Loneliness has a significant impact on mental health and can be considred a serious social problem
+as it affects a person's well-being and may lead to potential consequences such as increased healthcare 
+costs and reduced productivity.Our web app"SELF-CARE DIGITAL DIARY" gives individuals to open up their 
+minds and relieve their burdens.It doesn't act as a complete solution to this problem but can help
+ the affected to an extent.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Getting rid of Mental health isssues caused due to loneliness
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+selfcare digital planner
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- HTML
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
@@ -47,11 +50,11 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1]("C:\Users\lsapa\OneDrive\Pictures\Screenshots\Screenshot 2025-01-26 105123.png")
+main page
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2]("C:\Users\lsapa\OneDrive\Pictures\Screenshots\Screenshot 2025-01-26 105413.png")
+sub page water count tracker
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
